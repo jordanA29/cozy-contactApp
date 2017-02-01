@@ -1,0 +1,11 @@
+{
+  "name": "tuto",
+  "cozy-type": "static",
+  "cozy-displayName": "First App cozy",
+  "version": "1.0.0",
+  "description": "This is the tutorial app",
+  "icon-path": "main_icon.png",
+  "cozy-permissions": {
+    "Contacts": "This app manages your contacts"
+  }
+}
